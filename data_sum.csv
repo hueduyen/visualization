@@ -1,0 +1,551 @@
+Region,Year,Activities,ActivityType,Gender,HaveJob,TimeUse
+0,1996,Sleep,Primary Activities,Male,,475
+0,2001,Sleep,Primary Activities,Male,,472
+0,2006,Sleep,Primary Activities,Male,,469
+0,2011,Sleep,Primary Activities,Male,,469
+0,2016,Sleep,Primary Activities,Male,,465
+0,1996,Sleep,Primary Activities,Male,TRUE,463
+0,2001,Sleep,Primary Activities,Male,TRUE,459
+0,2006,Sleep,Primary Activities,Male,TRUE,454
+0,2011,Sleep,Primary Activities,Male,TRUE,452
+0,2016,Sleep,Primary Activities,Male,TRUE,449
+0,1996,Sleep,Primary Activities,Male,FALSE,506
+0,2001,Sleep,Primary Activities,Male,FALSE,504
+0,2006,Sleep,Primary Activities,Male,FALSE,503
+0,2011,Sleep,Primary Activities,Male,FALSE,501
+0,2016,Sleep,Primary Activities,Male,FALSE,496
+0,1996,Sleep,Primary Activities,Female,,460
+0,2001,Sleep,Primary Activities,Female,,458
+0,2006,Sleep,Primary Activities,Female,,455
+0,2011,Sleep,Primary Activities,Female,,456
+0,2016,Sleep,Primary Activities,Female,,455
+0,1996,Sleep,Primary Activities,Female,TRUE,443
+0,2001,Sleep,Primary Activities,Female,TRUE,440
+0,2006,Sleep,Primary Activities,Female,TRUE,436
+0,2011,Sleep,Primary Activities,Female,TRUE,435
+0,2016,Sleep,Primary Activities,Female,TRUE,435
+0,1996,Sleep,Primary Activities,Female,FALSE,471
+0,2001,Sleep,Primary Activities,Female,FALSE,472
+0,2006,Sleep,Primary Activities,Female,FALSE,471
+0,2011,Sleep,Primary Activities,Female,FALSE,472
+0,2016,Sleep,Primary Activities,Female,FALSE,472
+0,1996,Meals,Primary Activities,Female,FALSE,109
+0,2001,Meals,Primary Activities,Female,FALSE,107
+0,2006,Meals,Primary Activities,Female,FALSE,110
+0,2011,Meals,Primary Activities,Female,FALSE,110
+0,2016,Meals,Primary Activities,Female,FALSE,112
+0,1996,Meals,Primary Activities,Female,TRUE,97
+0,2001,Meals,Primary Activities,Female,TRUE,96
+0,2006,Meals,Primary Activities,Female,TRUE,96
+0,2011,Meals,Primary Activities,Female,TRUE,95
+0,2016,Meals,Primary Activities,Female,TRUE,95
+0,1996,Meals,Primary Activities,Female,,102
+0,2001,Meals,Primary Activities,Female,,101
+0,2006,Meals,Primary Activities,Female,,102
+0,2011,Meals,Primary Activities,Female,,102
+0,2016,Meals,Primary Activities,Female,,103
+0,1996,Meals,Primary Activities,Male,FALSE,101
+0,2001,Meals,Primary Activities,Male,FALSE,104
+0,2006,Meals,Primary Activities,Male,FALSE,106
+0,2011,Meals,Primary Activities,Male,FALSE,106
+0,2016,Meals,Primary Activities,Male,FALSE,109
+0,1996,Meals,Primary Activities,Male,TRUE,94
+0,2001,Meals,Primary Activities,Male,TRUE,94
+0,2006,Meals,Primary Activities,Male,TRUE,93
+0,2011,Meals,Primary Activities,Male,TRUE,92
+0,2016,Meals,Primary Activities,Male,TRUE,93
+0,1996,Meals,Primary Activities,Male,,95
+0,2001,Meals,Primary Activities,Male,,96
+0,2006,Meals,Primary Activities,Male,,96
+0,2011,Meals,Primary Activities,Male,,96
+0,2016,Meals,Primary Activities,Male,,98
+0,1996,Personal care,Primary Activities,Male,,58
+0,2001,Personal care,Primary Activities,Male,,62
+0,2006,Personal care,Primary Activities,Male,,66
+0,2011,Personal care,Primary Activities,Male,,69
+0,2016,Personal care,Primary Activities,Male,,71
+0,1996,Personal care,Primary Activities,Male,TRUE,57
+0,2001,Personal care,Primary Activities,Male,TRUE,60
+0,2006,Personal care,Primary Activities,Male,TRUE,64
+0,2011,Personal care,Primary Activities,Male,TRUE,67
+0,2016,Personal care,Primary Activities,Male,TRUE,69
+0,1996,Personal care,Primary Activities,Male,FALSE,65
+0,2001,Personal care,Primary Activities,Male,FALSE,70
+0,2006,Personal care,Primary Activities,Male,FALSE,73
+0,2011,Personal care,Primary Activities,Male,FALSE,75
+0,2016,Personal care,Primary Activities,Male,FALSE,79
+0,1996,Personal care,Primary Activities,Female,,79
+0,2001,Personal care,Primary Activities,Female,,83
+0,2006,Personal care,Primary Activities,Female,,85
+0,2011,Personal care,Primary Activities,Female,,89
+0,2016,Personal care,Primary Activities,Female,,91
+0,1996,Personal care,Primary Activities,Female,TRUE,80
+0,2001,Personal care,Primary Activities,Female,TRUE,83
+0,2006,Personal care,Primary Activities,Female,TRUE,86
+0,2011,Personal care,Primary Activities,Female,TRUE,90
+0,2016,Personal care,Primary Activities,Female,TRUE,92
+0,1996,Personal care,Primary Activities,Female,FALSE,79
+0,2001,Personal care,Primary Activities,Female,FALSE,84
+0,2006,Personal care,Primary Activities,Female,FALSE,85
+0,2011,Personal care,Primary Activities,Female,FALSE,89
+0,2016,Personal care,Primary Activities,Female,FALSE,93
+0,1996,Child care,Secondary Activities,Male,,2
+0,2001,Child care,Secondary Activities,Male,,3
+0,2006,Child care,Secondary Activities,Male,,4
+0,2011,Child care,Secondary Activities,Male,,5
+0,2016,Child care,Secondary Activities,Male,,6
+0,1996,Child care,Secondary Activities,Male,TRUE,3
+0,2001,Child care,Secondary Activities,Male,TRUE,4
+0,2006,Child care,Secondary Activities,Male,TRUE,5
+0,2011,Child care,Secondary Activities,Male,TRUE,7
+0,2016,Child care,Secondary Activities,Male,TRUE,7
+0,1996,Child care,Secondary Activities,Male,FALSE,1
+0,2001,Child care,Secondary Activities,Male,FALSE,2
+0,2006,Child care,Secondary Activities,Male,FALSE,2
+0,2011,Child care,Secondary Activities,Male,FALSE,2
+0,2016,Child care,Secondary Activities,Male,FALSE,3
+0,1996,Child care,Secondary Activities,Female,,19
+0,2001,Child care,Secondary Activities,Female,,22
+0,2006,Child care,Secondary Activities,Female,,22
+0,2011,Child care,Secondary Activities,Female,,23
+0,2016,Child care,Secondary Activities,Female,,24
+0,1996,Child care,Secondary Activities,Female,TRUE,9
+0,2001,Child care,Secondary Activities,Female,TRUE,12
+0,2006,Child care,Secondary Activities,Female,TRUE,15
+0,2011,Child care,Secondary Activities,Female,TRUE,17
+0,2016,Child care,Secondary Activities,Female,TRUE,21
+0,1996,Child care,Secondary Activities,Female,FALSE,33
+0,2001,Child care,Secondary Activities,Female,FALSE,35
+0,2006,Child care,Secondary Activities,Female,FALSE,33
+0,2011,Child care,Secondary Activities,Female,FALSE,31
+0,2016,Child care,Secondary Activities,Female,FALSE,30
+0,1996,Commuting,Secondary Activities,Female,TRUE,34
+0,2001,Commuting,Secondary Activities,Female,TRUE,33
+0,2006,Commuting,Secondary Activities,Female,TRUE,35
+0,2011,Commuting,Secondary Activities,Female,TRUE,36
+0,2016,Commuting,Secondary Activities,Female,TRUE,39
+0,1996,Commuting,Secondary Activities,Female,,23
+0,2001,Commuting,Secondary Activities,Female,,22
+0,2006,Commuting,Secondary Activities,Female,,22
+0,2011,Commuting,Secondary Activities,Female,,23
+0,2016,Commuting,Secondary Activities,Female,,25
+0,1996,Commuting,Secondary Activities,Male,TRUE,49
+0,2001,Commuting,Secondary Activities,Male,TRUE,48
+0,2006,Commuting,Secondary Activities,Male,TRUE,50
+0,2011,Commuting,Secondary Activities,Male,TRUE,50
+0,2016,Commuting,Secondary Activities,Male,TRUE,54
+0,1996,Commuting,Secondary Activities,Male,,43
+0,2001,Commuting,Secondary Activities,Male,,41
+0,2006,Commuting,Secondary Activities,Male,,41
+0,2011,Commuting,Secondary Activities,Male,,40
+0,2016,Commuting,Secondary Activities,Male,,43
+0,1996,Housework,Secondary Activities,Male,,10
+0,2001,Housework,Secondary Activities,Male,,13
+0,2006,Housework,Secondary Activities,Male,,17
+0,2011,Housework,Secondary Activities,Male,,18
+0,2016,Housework,Secondary Activities,Male,,19
+0,1996,Housework,Secondary Activities,Male,TRUE,7
+0,2001,Housework,Secondary Activities,Male,TRUE,9
+0,2006,Housework,Secondary Activities,Male,TRUE,11
+0,2011,Housework,Secondary Activities,Male,TRUE,11
+0,2016,Housework,Secondary Activities,Male,TRUE,13
+0,1996,Housework,Secondary Activities,Male,FALSE,24
+0,2001,Housework,Secondary Activities,Male,FALSE,30
+0,2006,Housework,Secondary Activities,Male,FALSE,37
+0,2011,Housework,Secondary Activities,Male,FALSE,38
+0,2016,Housework,Secondary Activities,Male,FALSE,37
+0,1996,Housework,Secondary Activities,Female,,157
+0,2001,Housework,Secondary Activities,Female,,154
+0,2006,Housework,Secondary Activities,Female,,154
+0,2011,Housework,Secondary Activities,Female,,152
+0,2016,Housework,Secondary Activities,Female,,144
+0,1996,Housework,Secondary Activities,Female,TRUE,138
+0,2001,Housework,Secondary Activities,Female,TRUE,133
+0,2006,Housework,Secondary Activities,Female,TRUE,131
+0,2011,Housework,Secondary Activities,Female,TRUE,130
+0,2016,Housework,Secondary Activities,Female,TRUE,126
+0,1996,Housework,Secondary Activities,Female,FALSE,200
+0,2001,Housework,Secondary Activities,Female,FALSE,195
+0,2006,Housework,Secondary Activities,Female,FALSE,195
+0,2011,Housework,Secondary Activities,Female,FALSE,191
+0,2016,Housework,Secondary Activities,Female,FALSE,180
+0,1996,Schoolwork,Secondary Activities,Female,FALSE,45
+0,2001,Schoolwork,Secondary Activities,Female,FALSE,39
+0,2006,Schoolwork,Secondary Activities,Female,FALSE,34
+0,2011,Schoolwork,Secondary Activities,Female,FALSE,36
+0,2016,Schoolwork,Secondary Activities,Female,FALSE,41
+0,1996,Schoolwork,Secondary Activities,Female,TRUE,5
+0,2001,Schoolwork,Secondary Activities,Female,TRUE,7
+0,2006,Schoolwork,Secondary Activities,Female,TRUE,7
+0,2011,Schoolwork,Secondary Activities,Female,TRUE,9
+0,2016,Schoolwork,Secondary Activities,Female,TRUE,13
+0,1996,Schoolwork,Secondary Activities,Female,,41
+0,2001,Schoolwork,Secondary Activities,Female,,37
+0,2006,Schoolwork,Secondary Activities,Female,,35
+0,2011,Schoolwork,Secondary Activities,Female,,37
+0,2016,Schoolwork,Secondary Activities,Female,,41
+0,1996,Schoolwork,Secondary Activities,Male,FALSE,126
+0,2001,Schoolwork,Secondary Activities,Male,FALSE,95
+0,2006,Schoolwork,Secondary Activities,Male,FALSE,83
+0,2011,Schoolwork,Secondary Activities,Male,FALSE,78
+0,2016,Schoolwork,Secondary Activities,Male,FALSE,79
+0,1996,Schoolwork,Secondary Activities,Male,TRUE,4
+0,2001,Schoolwork,Secondary Activities,Male,TRUE,6
+0,2006,Schoolwork,Secondary Activities,Male,TRUE,6
+0,2011,Schoolwork,Secondary Activities,Male,TRUE,6
+0,2016,Schoolwork,Secondary Activities,Male,TRUE,9
+0,1996,Schoolwork,Secondary Activities,Male,,48
+0,2001,Schoolwork,Secondary Activities,Male,,43
+0,2006,Schoolwork,Secondary Activities,Male,,40
+0,2011,Schoolwork,Secondary Activities,Male,,42
+0,2016,Schoolwork,Secondary Activities,Male,,44
+0,1996,Caring and nursing,Secondary Activities,Male,,1
+0,2001,Caring and nursing,Secondary Activities,Male,,1
+0,2006,Caring and nursing,Secondary Activities,Male,,2
+0,2011,Caring and nursing,Secondary Activities,Male,,2
+0,2016,Caring and nursing,Secondary Activities,Male,,2
+0,1996,Caring and nursing,Secondary Activities,Male,TRUE,1
+0,2001,Caring and nursing,Secondary Activities,Male,TRUE,1
+0,2006,Caring and nursing,Secondary Activities,Male,TRUE,1
+0,2011,Caring and nursing,Secondary Activities,Male,TRUE,1
+0,2016,Caring and nursing,Secondary Activities,Male,TRUE,1
+0,1996,Caring and nursing,Secondary Activities,Male,FALSE,3
+0,2001,Caring and nursing,Secondary Activities,Male,FALSE,3
+0,2006,Caring and nursing,Secondary Activities,Male,FALSE,4
+0,2011,Caring and nursing,Secondary Activities,Male,FALSE,4
+0,2016,Caring and nursing,Secondary Activities,Male,FALSE,4
+0,1996,Caring and nursing,Secondary Activities,Female,,5
+0,2001,Caring and nursing,Secondary Activities,Female,,5
+0,2006,Caring and nursing,Secondary Activities,Female,,5
+0,2011,Caring and nursing,Secondary Activities,Female,,5
+0,2016,Caring and nursing,Secondary Activities,Female,,6
+0,1996,Caring and nursing,Secondary Activities,Female,TRUE,3
+0,2001,Caring and nursing,Secondary Activities,Female,TRUE,4
+0,2006,Caring and nursing,Secondary Activities,Female,TRUE,4
+0,2011,Caring and nursing,Secondary Activities,Female,TRUE,3
+0,2016,Caring and nursing,Secondary Activities,Female,TRUE,4
+0,1996,Caring and nursing,Secondary Activities,Female,FALSE,7
+0,2001,Caring and nursing,Secondary Activities,Female,FALSE,7
+0,2006,Caring and nursing,Secondary Activities,Female,FALSE,7
+0,2011,Caring and nursing,Secondary Activities,Female,FALSE,7
+0,2016,Caring and nursing,Secondary Activities,Female,FALSE,8
+0,1996,Shopping,Secondary Activities,Female,TRUE,30
+0,2001,Shopping,Secondary Activities,Female,TRUE,31
+0,2006,Shopping,Secondary Activities,Female,TRUE,31
+0,2011,Shopping,Secondary Activities,Female,TRUE,32
+0,2016,Shopping,Secondary Activities,Female,TRUE,32
+0,1996,Shopping,Secondary Activities,Female,,33
+0,2001,Shopping,Secondary Activities,Female,,33
+0,2006,Shopping,Secondary Activities,Female,,34
+0,2011,Shopping,Secondary Activities,Female,,35
+0,2016,Shopping,Secondary Activities,Female,,34
+0,1996,Shopping,Secondary Activities,Male,TRUE,11
+0,2001,Shopping,Secondary Activities,Male,TRUE,13
+0,2006,Shopping,Secondary Activities,Male,TRUE,14
+0,2011,Shopping,Secondary Activities,Male,TRUE,15
+0,2016,Shopping,Secondary Activities,Male,TRUE,15
+0,1996,Shopping,Secondary Activities,Male,,11
+0,2001,Shopping,Secondary Activities,Male,,14
+0,2006,Shopping,Secondary Activities,Male,,15
+0,2011,Shopping,Secondary Activities,Male,,17
+0,2016,Shopping,Secondary Activities,Male,,17
+0,1996,Work,Secondary Activities,Male,,313
+0,2001,Work,Secondary Activities,Male,,296
+0,2006,Work,Secondary Activities,Male,,299
+0,2011,Work,Secondary Activities,Male,,286
+0,2016,Work,Secondary Activities,Male,,281
+0,1996,Work,Secondary Activities,Male,TRUE,420
+0,2001,Work,Secondary Activities,Male,TRUE,408
+0,2006,Work,Secondary Activities,Male,TRUE,420
+0,2011,Work,Secondary Activities,Male,TRUE,416
+0,2016,Work,Secondary Activities,Male,TRUE,409
+0,1996,Work,Secondary Activities,Male,FALSE,10
+0,2001,Work,Secondary Activities,Male,FALSE,7
+0,2006,Work,Secondary Activities,Male,FALSE,9
+0,2011,Work,Secondary Activities,Male,FALSE,6
+0,2016,Work,Secondary Activities,Male,FALSE,8
+0,1996,Work,Secondary Activities,Female,,158
+0,2001,Work,Secondary Activities,Female,,147
+0,2006,Work,Secondary Activities,Female,,152
+0,2011,Work,Secondary Activities,Female,,143
+0,2016,Work,Secondary Activities,Female,,149
+0,1996,Work,Secondary Activities,Female,TRUE,311
+0,2001,Work,Secondary Activities,Female,TRUE,291
+0,2006,Work,Secondary Activities,Female,TRUE,300
+0,2011,Work,Secondary Activities,Female,TRUE,290
+0,2016,Work,Secondary Activities,Female,TRUE,287
+0,1996,Work,Secondary Activities,Female,FALSE,7
+0,2001,Work,Secondary Activities,Female,FALSE,5
+0,2006,Work,Secondary Activities,Female,FALSE,5
+0,2011,Work,Secondary Activities,Female,FALSE,4
+0,2016,Work,Secondary Activities,Female,FALSE,4
+0,1996,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,,157
+0,2001,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,,158
+0,2006,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,,148
+0,2011,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,,151
+0,2016,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,,139
+0,1996,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,TRUE,139
+0,2001,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,TRUE,134
+0,2006,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,TRUE,121
+0,2011,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,TRUE,117
+0,2016,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,TRUE,103
+0,1996,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,FALSE,235
+0,2001,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,FALSE,245
+0,2006,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,FALSE,240
+0,2011,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,FALSE,249
+0,2016,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Male,FALSE,241
+0,1996,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,,149
+0,2001,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,,146
+0,2006,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,,141
+0,2011,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,,144
+0,2016,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,,131
+0,1996,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,TRUE,119
+0,2001,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,TRUE,117
+0,2006,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,TRUE,109
+0,2011,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,TRUE,110
+0,2016,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,TRUE,96
+0,1996,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,FALSE,185
+0,2001,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,FALSE,181
+0,2006,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,FALSE,179
+0,2011,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,FALSE,186
+0,2016,"Watching TV, listening to radio, read newspapers or magazines ",Tertiary Activities,Female,FALSE,178
+0,1996,Volunteer and social activities,Tertiary Activities,Female,FALSE,4
+0,2001,Volunteer and social activities,Tertiary Activities,Female,FALSE,6
+0,2006,Volunteer and social activities,Tertiary Activities,Female,FALSE,6
+0,2011,Volunteer and social activities,Tertiary Activities,Female,FALSE,5
+0,2016,Volunteer and social activities,Tertiary Activities,Female,FALSE,5
+0,1996,Volunteer and social activities,Tertiary Activities,Female,TRUE,3
+0,2001,Volunteer and social activities,Tertiary Activities,Female,TRUE,4
+0,2006,Volunteer and social activities,Tertiary Activities,Female,TRUE,4
+0,2011,Volunteer and social activities,Tertiary Activities,Female,TRUE,3
+0,2016,Volunteer and social activities,Tertiary Activities,Female,TRUE,3
+0,1996,Volunteer and social activities,Tertiary Activities,Female,,4
+0,2001,Volunteer and social activities,Tertiary Activities,Female,,5
+0,2006,Volunteer and social activities,Tertiary Activities,Female,,5
+0,2011,Volunteer and social activities,Tertiary Activities,Female,,4
+0,2016,Volunteer and social activities,Tertiary Activities,Female,,4
+0,1996,Volunteer and social activities,Tertiary Activities,Male,FALSE,4
+0,2001,Volunteer and social activities,Tertiary Activities,Male,FALSE,6
+0,2006,Volunteer and social activities,Tertiary Activities,Male,FALSE,6
+0,2011,Volunteer and social activities,Tertiary Activities,Male,FALSE,6
+0,2016,Volunteer and social activities,Tertiary Activities,Male,FALSE,6
+0,1996,Volunteer and social activities,Tertiary Activities,Male,TRUE,4
+0,2001,Volunteer and social activities,Tertiary Activities,Male,TRUE,4
+0,2006,Volunteer and social activities,Tertiary Activities,Male,TRUE,4
+0,2011,Volunteer and social activities,Tertiary Activities,Male,TRUE,4
+0,2016,Volunteer and social activities,Tertiary Activities,Male,TRUE,4
+0,1996,Volunteer and social activities,Tertiary Activities,Male,,4
+0,2001,Volunteer and social activities,Tertiary Activities,Male,,4
+0,2006,Volunteer and social activities,Tertiary Activities,Male,,5
+0,2011,Volunteer and social activities,Tertiary Activities,Male,,4
+0,2016,Volunteer and social activities,Tertiary Activities,Male,,4
+0,1996,Moving excl. commuting,Tertiary Activities,Male,,25
+0,2001,Moving excl. commuting,Tertiary Activities,Male,,32
+0,2006,Moving excl. commuting,Tertiary Activities,Male,,29
+0,2011,Moving excl. commuting,Tertiary Activities,Male,,29
+0,2016,Moving excl. commuting,Tertiary Activities,Male,,28
+0,1996,Moving excl. commuting,Tertiary Activities,Male,TRUE,26
+0,2001,Moving excl. commuting,Tertiary Activities,Male,TRUE,32
+0,2006,Moving excl. commuting,Tertiary Activities,Male,TRUE,29
+0,2011,Moving excl. commuting,Tertiary Activities,Male,TRUE,29
+0,2016,Moving excl. commuting,Tertiary Activities,Male,TRUE,28
+0,1996,Moving excl. commuting,Tertiary Activities,Male,FALSE,24
+0,2001,Moving excl. commuting,Tertiary Activities,Male,FALSE,31
+0,2006,Moving excl. commuting,Tertiary Activities,Male,FALSE,30
+0,2011,Moving excl. commuting,Tertiary Activities,Male,FALSE,29
+0,2016,Moving excl. commuting,Tertiary Activities,Male,FALSE,29
+0,1996,Moving excl. commuting,Tertiary Activities,Female,,24
+0,2001,Moving excl. commuting,Tertiary Activities,Female,,33
+0,2006,Moving excl. commuting,Tertiary Activities,Female,,32
+0,2011,Moving excl. commuting,Tertiary Activities,Female,,30
+0,2016,Moving excl. commuting,Tertiary Activities,Female,,30
+0,1996,Moving excl. commuting,Tertiary Activities,Female,TRUE,24
+0,2001,Moving excl. commuting,Tertiary Activities,Female,TRUE,33
+0,2006,Moving excl. commuting,Tertiary Activities,Female,TRUE,31
+0,2011,Moving excl. commuting,Tertiary Activities,Female,TRUE,30
+0,2016,Moving excl. commuting,Tertiary Activities,Female,TRUE,31
+0,1996,Moving excl. commuting,Tertiary Activities,Female,FALSE,25
+0,2001,Moving excl. commuting,Tertiary Activities,Female,FALSE,35
+0,2006,Moving excl. commuting,Tertiary Activities,Female,FALSE,33
+0,2011,Moving excl. commuting,Tertiary Activities,Female,FALSE,31
+0,2016,Moving excl. commuting,Tertiary Activities,Female,FALSE,30
+0,1996,Rest and relaxation,Tertiary Activities,Female,FALSE,94
+0,2001,Rest and relaxation,Tertiary Activities,Female,FALSE,94
+0,2006,Rest and relaxation,Tertiary Activities,Female,FALSE,101
+0,2011,Rest and relaxation,Tertiary Activities,Female,FALSE,104
+0,2016,Rest and relaxation,Tertiary Activities,Female,FALSE,111
+0,1996,Rest and relaxation,Tertiary Activities,Female,TRUE,61
+0,2001,Rest and relaxation,Tertiary Activities,Female,TRUE,67
+0,2006,Rest and relaxation,Tertiary Activities,Female,TRUE,71
+0,2011,Rest and relaxation,Tertiary Activities,Female,TRUE,78
+0,2016,Rest and relaxation,Tertiary Activities,Female,TRUE,83
+0,1996,Rest and relaxation,Tertiary Activities,Female,,77
+0,2001,Rest and relaxation,Tertiary Activities,Female,,81
+0,2006,Rest and relaxation,Tertiary Activities,Female,,86
+0,2011,Rest and relaxation,Tertiary Activities,Female,,91
+0,2016,Rest and relaxation,Tertiary Activities,Female,,96
+0,1996,Rest and relaxation,Tertiary Activities,Male,FALSE,107
+0,2001,Rest and relaxation,Tertiary Activities,Male,FALSE,106
+0,2006,Rest and relaxation,Tertiary Activities,Male,FALSE,109
+0,2011,Rest and relaxation,Tertiary Activities,Male,FALSE,114
+0,2016,Rest and relaxation,Tertiary Activities,Male,FALSE,116
+0,1996,Rest and relaxation,Tertiary Activities,Male,TRUE,64
+0,2001,Rest and relaxation,Tertiary Activities,Male,TRUE,69
+0,2006,Rest and relaxation,Tertiary Activities,Male,TRUE,74
+0,2011,Rest and relaxation,Tertiary Activities,Male,TRUE,81
+0,2016,Rest and relaxation,Tertiary Activities,Male,TRUE,89
+0,1996,Rest and relaxation,Tertiary Activities,Male,,73
+0,2001,Rest and relaxation,Tertiary Activities,Male,,79
+0,2006,Rest and relaxation,Tertiary Activities,Male,,83
+0,2011,Rest and relaxation,Tertiary Activities,Male,,91
+0,2016,Rest and relaxation,Tertiary Activities,Male,,97
+0,1996,Medical examination and treatment,Tertiary Activities,Male,,6
+0,2001,Medical examination and treatment,Tertiary Activities,Male,,7
+0,2006,Medical examination and treatment,Tertiary Activities,Male,,7
+0,2011,Medical examination and treatment,Tertiary Activities,Male,,7
+0,2016,Medical examination and treatment,Tertiary Activities,Male,,7
+0,1996,Medical examination and treatment,Tertiary Activities,Male,TRUE,4
+0,2001,Medical examination and treatment,Tertiary Activities,Male,TRUE,4
+0,2006,Medical examination and treatment,Tertiary Activities,Male,TRUE,3
+0,2011,Medical examination and treatment,Tertiary Activities,Male,TRUE,4
+0,2016,Medical examination and treatment,Tertiary Activities,Male,TRUE,4
+0,1996,Medical examination and treatment,Tertiary Activities,Male,FALSE,17
+0,2001,Medical examination and treatment,Tertiary Activities,Male,FALSE,19
+0,2006,Medical examination and treatment,Tertiary Activities,Male,FALSE,20
+0,2011,Medical examination and treatment,Tertiary Activities,Male,FALSE,17
+0,2016,Medical examination and treatment,Tertiary Activities,Male,FALSE,14
+0,1996,Medical examination and treatment,Tertiary Activities,Female,,8
+0,2001,Medical examination and treatment,Tertiary Activities,Female,,10
+0,2006,Medical examination and treatment,Tertiary Activities,Female,,10
+0,2011,Medical examination and treatment,Tertiary Activities,Female,,10
+0,2016,Medical examination and treatment,Tertiary Activities,Female,,9
+0,1996,Medical examination and treatment,Tertiary Activities,Female,TRUE,4
+0,2001,Medical examination and treatment,Tertiary Activities,Female,TRUE,5
+0,2006,Medical examination and treatment,Tertiary Activities,Female,TRUE,5
+0,2011,Medical examination and treatment,Tertiary Activities,Female,TRUE,5
+0,2016,Medical examination and treatment,Tertiary Activities,Female,TRUE,5
+0,1996,Medical examination and treatment,Tertiary Activities,Female,FALSE,14
+0,2001,Medical examination and treatment,Tertiary Activities,Female,FALSE,15
+0,2006,Medical examination and treatment,Tertiary Activities,Female,FALSE,17
+0,2011,Medical examination and treatment,Tertiary Activities,Female,FALSE,15
+0,2016,Medical examination and treatment,Tertiary Activities,Female,FALSE,14
+0,1996,Social life,Tertiary Activities,Female,FALSE,29
+0,2001,Social life,Tertiary Activities,Female,FALSE,29
+0,2006,Social life,Tertiary Activities,Female,FALSE,25
+0,2011,Social life,Tertiary Activities,Female,FALSE,21
+0,2016,Social life,Tertiary Activities,Female,FALSE,20
+0,1996,Social life,Tertiary Activities,Female,TRUE,26
+0,2001,Social life,Tertiary Activities,Female,TRUE,26
+0,2006,Social life,Tertiary Activities,Female,TRUE,23
+0,2011,Social life,Tertiary Activities,Female,TRUE,20
+0,2016,Social life,Tertiary Activities,Female,TRUE,18
+0,1996,Social life,Tertiary Activities,Female,,27
+0,2001,Social life,Tertiary Activities,Female,,27
+0,2006,Social life,Tertiary Activities,Female,,24
+0,2011,Social life,Tertiary Activities,Female,,20
+0,2016,Social life,Tertiary Activities,Female,,19
+0,1996,Social life,Tertiary Activities,Male,FALSE,28
+0,2001,Social life,Tertiary Activities,Male,FALSE,27
+0,2006,Social life,Tertiary Activities,Male,FALSE,21
+0,2011,Social life,Tertiary Activities,Male,FALSE,18
+0,2016,Social life,Tertiary Activities,Male,FALSE,14
+0,1996,Social life,Tertiary Activities,Male,TRUE,28
+0,2001,Social life,Tertiary Activities,Male,TRUE,25
+0,2006,Social life,Tertiary Activities,Male,TRUE,20
+0,2011,Social life,Tertiary Activities,Male,TRUE,18
+0,2016,Social life,Tertiary Activities,Male,TRUE,16
+0,1996,Social life,Tertiary Activities,Male,,27
+0,2001,Social life,Tertiary Activities,Male,,25
+0,2006,Social life,Tertiary Activities,Male,,20
+0,2011,Social life,Tertiary Activities,Male,,18
+0,2016,Social life,Tertiary Activities,Male,,15
+0,1996,"Learning, self-education and training",Tertiary Activities,Male,,12
+0,2001,"Learning, self-education and training",Tertiary Activities,Male,,14
+0,2006,"Learning, self-education and training",Tertiary Activities,Male,,13
+0,2011,"Learning, self-education and training",Tertiary Activities,Male,,13
+0,2016,"Learning, self-education and training",Tertiary Activities,Male,,13
+0,1996,"Learning, self-education and training",Tertiary Activities,Male,TRUE,6
+0,2001,"Learning, self-education and training",Tertiary Activities,Male,TRUE,8
+0,2006,"Learning, self-education and training",Tertiary Activities,Male,TRUE,7
+0,2011,"Learning, self-education and training",Tertiary Activities,Male,TRUE,7
+0,2016,"Learning, self-education and training",Tertiary Activities,Male,TRUE,6
+0,1996,"Learning, self-education and training",Tertiary Activities,Male,FALSE,26
+0,2001,"Learning, self-education and training",Tertiary Activities,Male,FALSE,27
+0,2006,"Learning, self-education and training",Tertiary Activities,Male,FALSE,24
+0,2011,"Learning, self-education and training",Tertiary Activities,Male,FALSE,26
+0,2016,"Learning, self-education and training",Tertiary Activities,Male,FALSE,24
+0,1996,"Learning, self-education and training",Tertiary Activities,Female,,12
+0,2001,"Learning, self-education and training",Tertiary Activities,Female,,13
+0,2006,"Learning, self-education and training",Tertiary Activities,Female,,12
+0,2011,"Learning, self-education and training",Tertiary Activities,Female,,12
+0,2016,"Learning, self-education and training",Tertiary Activities,Female,,12
+0,1996,"Learning, self-education and training",Tertiary Activities,Female,TRUE,6
+0,2001,"Learning, self-education and training",Tertiary Activities,Female,TRUE,8
+0,2006,"Learning, self-education and training",Tertiary Activities,Female,TRUE,7
+0,2011,"Learning, self-education and training",Tertiary Activities,Female,TRUE,7
+0,2016,"Learning, self-education and training",Tertiary Activities,Female,TRUE,7
+0,1996,"Learning, self-education and training",Tertiary Activities,Female,FALSE,13
+0,2001,"Learning, self-education and training",Tertiary Activities,Female,FALSE,14
+0,2006,"Learning, self-education and training",Tertiary Activities,Female,FALSE,12
+0,2011,"Learning, self-education and training",Tertiary Activities,Female,FALSE,13
+0,2016,"Learning, self-education and training",Tertiary Activities,Female,FALSE,15
+0,1996,Sports,Tertiary Activities,Female,FALSE,10
+0,2001,Sports,Tertiary Activities,Female,FALSE,10
+0,2006,Sports,Tertiary Activities,Female,FALSE,12
+0,2011,Sports,Tertiary Activities,Female,FALSE,12
+0,2016,Sports,Tertiary Activities,Female,FALSE,13
+0,1996,Sports,Tertiary Activities,Female,TRUE,6
+0,2001,Sports,Tertiary Activities,Female,TRUE,7
+0,2006,Sports,Tertiary Activities,Female,TRUE,7
+0,2011,Sports,Tertiary Activities,Female,TRUE,7
+0,2016,Sports,Tertiary Activities,Female,TRUE,6
+0,1996,Sports,Tertiary Activities,Female,,10
+0,2001,Sports,Tertiary Activities,Female,,10
+0,2006,Sports,Tertiary Activities,Female,,11
+0,2011,Sports,Tertiary Activities,Female,,11
+0,2016,Sports,Tertiary Activities,Female,,10
+0,1996,Sports,Tertiary Activities,Male,FALSE,25
+0,2001,Sports,Tertiary Activities,Male,FALSE,24
+0,2006,Sports,Tertiary Activities,Male,FALSE,30
+0,2011,Sports,Tertiary Activities,Male,FALSE,28
+0,2016,Sports,Tertiary Activities,Male,FALSE,29
+0,1996,Sports,Tertiary Activities,Male,TRUE,11
+0,2001,Sports,Tertiary Activities,Male,TRUE,10
+0,2006,Sports,Tertiary Activities,Male,TRUE,11
+0,2011,Sports,Tertiary Activities,Male,TRUE,10
+0,2016,Sports,Tertiary Activities,Male,TRUE,10
+0,1996,Sports,Tertiary Activities,Male,,17
+0,2001,Sports,Tertiary Activities,Male,,16
+0,2006,Sports,Tertiary Activities,Male,,19
+0,2011,Sports,Tertiary Activities,Male,,18
+0,2016,Sports,Tertiary Activities,Male,,18
+0,1996,Hobbies and amusements,Tertiary Activities,Male,,42
+0,2001,Hobbies and amusements,Tertiary Activities,Male,,50
+0,2006,Hobbies and amusements,Tertiary Activities,Male,,51
+0,2011,Hobbies and amusements,Tertiary Activities,Male,,53
+0,2016,Hobbies and amusements,Tertiary Activities,Male,,57
+0,1996,Hobbies and amusements,Tertiary Activities,Male,TRUE,35
+0,2001,Hobbies and amusements,Tertiary Activities,Male,TRUE,40
+0,2006,Hobbies and amusements,Tertiary Activities,Male,TRUE,42
+0,2011,Hobbies and amusements,Tertiary Activities,Male,TRUE,43
+0,2016,Hobbies and amusements,Tertiary Activities,Male,TRUE,47
+0,1996,Hobbies and amusements,Tertiary Activities,Male,FALSE,67
+0,2001,Hobbies and amusements,Tertiary Activities,Male,FALSE,79
+0,2006,Hobbies and amusements,Tertiary Activities,Male,FALSE,79
+0,2011,Hobbies and amusements,Tertiary Activities,Male,FALSE,78
+0,2016,Hobbies and amusements,Tertiary Activities,Male,FALSE,81
+0,1996,Hobbies and amusements,Tertiary Activities,Female,,30
+0,2001,Hobbies and amusements,Tertiary Activities,Female,,35
+0,2006,Hobbies and amusements,Tertiary Activities,Female,,38
+0,2011,Hobbies and amusements,Tertiary Activities,Female,,37
+0,2016,Hobbies and amusements,Tertiary Activities,Female,,37
+0,1996,Hobbies and amusements,Tertiary Activities,Female,TRUE,22
+0,2001,Hobbies and amusements,Tertiary Activities,Female,TRUE,27
+0,2006,Hobbies and amusements,Tertiary Activities,Female,TRUE,30
+0,2011,Hobbies and amusements,Tertiary Activities,Female,TRUE,29
+0,2016,Hobbies and amusements,Tertiary Activities,Female,TRUE,30
+0,1996,Hobbies and amusements,Tertiary Activities,Female,FALSE,38
+0,2001,Hobbies and amusements,Tertiary Activities,Female,FALSE,43
+0,2006,Hobbies and amusements,Tertiary Activities,Female,FALSE,46
+0,2011,Hobbies and amusements,Tertiary Activities,Female,FALSE,44
+0,2016,Hobbies and amusements,Tertiary Activities,Female,FALSE,44
